@@ -1,0 +1,14 @@
+{
+  "name": "hello_node",
+  "version": "42.0.0",
+  "description": "My second node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Luczak",
+  "license": "MIT",
+  "devDependencies": {
+    "http": "0.0.0"
+  }
+}

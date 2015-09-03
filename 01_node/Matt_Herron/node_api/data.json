@@ -1,0 +1,27 @@
+[
+	{
+		"Name": "Matt Herron", 
+		"Color": "White",
+		"Talent": "Computers"
+	},
+	{
+		"Name": "Jim Haff", 
+		"Color": "White",
+		"Talent": "jQuery"
+	},	
+		{
+		"Name": "Tristan Marshall", 
+		"Color": "White",
+		"Talent": "Handwriting"
+	},	
+	{
+		"Name": "Joe Greene", 
+		"Color": "Black",
+		"Talent": "Acting"
+	},	
+	{
+		"Name": "Eric Lucsienz", 
+		"Color": "White",
+		"Talent": "Video Gaming"
+	}
+]

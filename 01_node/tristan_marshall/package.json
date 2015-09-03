@@ -1,0 +1,11 @@
+{
+  "name": "node_html",
+  "version": "37.0.0",
+  "description": "Serving HTML with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tristan Marshall",
+  "license": "ISC"
+}

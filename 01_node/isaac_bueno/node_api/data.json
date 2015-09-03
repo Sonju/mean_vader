@@ -1,0 +1,8 @@
+{
+  /*double quotes ALWAYS for JSON ""*/
+  "key": "values",
+  "hash": "ruby",
+  "object": "javascript",
+  "hashMap": "java",
+  "dictionary": "c#"
+}

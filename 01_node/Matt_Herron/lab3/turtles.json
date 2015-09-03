@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Leonardo",
+		"color": "Purple",
+		"weapon": "Bo",
+		"saying": "Cowabunga Dude!"
+	},
+	{
+		"name": "Raphael",
+		"color": "Red",
+		"weapon": "Sword",
+		"saying": "I feel like shit dude!"
+	},
+	{
+		"name": "Michaelangelo",
+		"color": "Blue",
+		"weapon": "Sai",
+		"saying": "This is cool"
+	},
+	{
+		"name": "Peter",
+		"color": "Green",
+		"weapon": "Nunchiucks",
+		"saying": "Holy shit this is crazy!"
+	}
+]
