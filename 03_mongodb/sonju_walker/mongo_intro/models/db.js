@@ -8,13 +8,13 @@
   // website: https://root@google.com/search
   // ftp://admin:awesomepassword@ftp.somewebsite.com/path/to/www
 
-// mongodb://server-name.com:part/name-of-database
+// 1st mongodb://server-name.com:part/name-of-database
   var connectionString = 'mongodb://localhost/myfirstdatabase';
 
-  // now tell mongoose to connect to our database using connectionString
+// 2nd now tell mongoose to connect to our database using connectionString
   mongoose.connect(connectionString);
 
-// listen for events in mongoose
+// 3rd listen for events in mongoose
   // 'connected' event - database has connected
   // 'error' event - something has gone wrong!
   // 'disconnected' - ' database has been disconnected'
